@@ -1,7 +1,4 @@
  Виконав самостійно Шевченко Артем РПЗ 24-А
-##  Objective
-
-To get acquainted with the popular cloud provider Amazon Web Services (AWS) and learn how to create and configure virtual machines (EC2 instances) in the AWS environment.
 
 ##  Preliminary Preparation Questions and Answers
 
